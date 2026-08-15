@@ -1,0 +1,4 @@
+Shift + F6 - переименовать
+Shift + F10 - Запустить
+psvm - public static void main
+sout - System.out.println()

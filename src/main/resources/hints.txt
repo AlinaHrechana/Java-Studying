@@ -2,3 +2,8 @@ Shift + F6 - переименовать
 Shift + F10 - Запустить
 psvm - public static void main
 sout - System.out.println()
+
+Умножение a * b
+Деление a / b
+Плюс a + b
+Минус a - b

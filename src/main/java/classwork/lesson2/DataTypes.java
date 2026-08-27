@@ -1,4 +1,4 @@
-package classwork.lesson1;
+package classwork.lesson2;
 
 public class DataTypes {
 

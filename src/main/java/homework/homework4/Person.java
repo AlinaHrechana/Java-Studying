@@ -6,7 +6,7 @@ public class Person {
 
         personInfo("Will ", "Smith ", "New York ", "2936729462846");
 
-        personInfo("Jackie ", "Chan ", "Shanghai ", "12312412412" );
+        personInfo("Jackie ", "Chan ", "Shanghai ", "12312412412");
 
         personInfo("Sherlock ", "Holmes ", "London ", "37742123513");
     }
